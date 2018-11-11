@@ -12,7 +12,7 @@ A software development oriented version of Citadels
 - **Testing**: Red
 - **Development**: Green
 - **Comms**: Yellow
-- **Releases**: Pink
+- **Special**: Pink
 
 ## Characters
 1. **IT Support**
@@ -39,3 +39,46 @@ A software development oriented version of Citadels
     - You may beautify one or two of your stories adding one extra story point on each of the stories you are beautifying.
 
 //TODO Devops Security 
+
+## Cards
+### Requirements
+3x * Ticket
+
+3x * * Epic
+
+3x * * * Increment
+
+2x * * * * * Roadmap
+
+### Testing
+3x * Test case
+
+3x * * Device testing
+
+3x * * * Performance testing
+
+2x * * * * * Full regression
+
+### Development
+5x * Config change
+
+4x * * Unit test
+
+3x * * Refactor
+
+3x * * * Pair programming 
+
+3x * * * * Merge conflicts
+
+2x * * * * * Functional test
+
+## Comms
+5x * * * Escalate
+
+4x * * * * Change Process
+
+3x * * * * * Sign new Contract
+
+
+### Special
+//TODO
