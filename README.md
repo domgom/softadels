@@ -60,7 +60,7 @@ A software development oriented version of Citadels
 2x * * * * * Full regression
 
 ### Development
-5x * Config change
+5x * Hotfix
 
 4x * * Unit test
 
