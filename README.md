@@ -72,7 +72,7 @@ A software development oriented version of Citadels
 
 2x * * * * * Functional test
 
-## Comms
+### Comms
 5x * * * Escalate
 
 4x * * * * Change Process
