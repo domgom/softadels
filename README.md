@@ -38,7 +38,7 @@ A software development oriented version of Citadels
 9. **UI/UX Designer**
     - You may beautify one or two of your stories adding one extra story point on each of the stories you are beautifying.
 
-//TODO Devops Security 
+//TODO Devops, Security, Agile Coach...
 
 ## Cards
 ### Requirements
