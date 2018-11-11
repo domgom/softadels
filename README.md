@@ -6,7 +6,7 @@ A software development oriented version of Citadels
 - **Story Points**: they precious time units you can spend to finish your stories.
 - **Backlog**: Card pile
 - **Board**: Player area
-- **Finish** a story: pay its story points cost and add it to your board.
+- **Finish a story**: pay its story points cost and add it to your board.
 - **Sprint**: round.
 - **Requirements**: Blue 
 - **Testing**: Red
