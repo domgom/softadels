@@ -81,4 +81,21 @@ A software development oriented version of Citadels
 
 
 ### Special
-//TODO
+* * Fullstack ninja. This story is of the color of your choice.
+
+2x * * * Software as a Service. QA can't find bugs in this story.
+
+* * * * * MVP focus. Once per Sprint you may return to the backlog a story from your hand and receive 1 story point.
+
+* * * * * Scope creep. Once per Sprint, you may spend 2 story points to draw 3 stories from the backlog.
+
+* * * * * Advance planning session. If you choose to draw stories from the backlog in your turn, you draw 3 stories, keep one of your choice, and put the other 2 on the bottom of the backlog.
+
+* * * * * Let me fix tha for you. When the QA finds bugs in a story, you may pay one story point to take the story into your hand. You may not do this if you are the QA.
+
+2x * * * * * * Outsourcing. This story costs 6 story points to finish, but is worth 8 story points at the end of the game.
+
+* * * * * * Extra Kanban board. If you choose to draw stories when you take an action, you keep both of the stories you have drawn.
+
+* * * * * * It works in my local. The cost for the QA to find bugs in your stories is increased by one.
+
